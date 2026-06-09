@@ -1,3 +1,6 @@
+.container{
+displey: flex;
+flex-warp;}
 * {
     box-sizing: border-box;
 }
@@ -16,7 +19,7 @@ header {
 
 nav {
     float: left;
-    width: 15%;
+    width: 23%;
     height: 2355px;
     background: #c5ddf8;
     color: #1f1d4e;
@@ -32,7 +35,7 @@ nav ul {
 article {
     float: left;
     padding: 10px;
-    width: 85%;
+    width: 77%;
     background-color: #f7f7f7;
     height: 2355px;
     color: #1f1d4e;
